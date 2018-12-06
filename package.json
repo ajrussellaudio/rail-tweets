@@ -12,6 +12,7 @@
   "keywords": [],
   "license": "ISC",
   "dependencies": {
+    "moment": "^2.22.2",
     "tracery-grammar": "^2.7.3"
   }
 }
