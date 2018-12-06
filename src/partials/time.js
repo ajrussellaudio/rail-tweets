@@ -1,7 +1,7 @@
 const moment = require("moment");
 const { random } = require("../utils");
 
-module.exports = () =>
+module.exports = minutesAgo =>
   moment()
-    .subtract(random(45), "minutes")
+    .subtract(random(minutesAgo), "minutes")
     .format("HH:mm");

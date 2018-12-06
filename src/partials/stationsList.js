@@ -240,7 +240,7 @@ module.exports = [
   "Livingston North",
   "Livingston South",
   "Loch Awe",
-  "Loch Eil Outward Bound",
+  "Loch Eil",
   "Lochailort",
   "Locheilside",
   "Lochgelly",
